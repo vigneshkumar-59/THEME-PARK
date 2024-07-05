@@ -1,0 +1,20 @@
+.pay {
+    background-image: url("https://getwallpapers.com/wallpaper/full/5/f/c/755464-top-bright-purple-wallpaper-2560x1600.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+.pay h2{
+    font-size:xx-large;
+    font-family: 'Times New Roman';
+    color: blue;
+}
+.pay img{
+    width: 180px;
+    height: 80px;
+}
+.pay .p1{
+    color: rgb(220, 27, 27);
+    font-size: 20px;
+}

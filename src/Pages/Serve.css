@@ -1,0 +1,38 @@
+
+
+.Water{
+    background-image: url("http://wallpapercave.com/wp/Qq7Yhft.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: 0;
+    padding: 16px 0;
+}
+
+.Water h5{
+    font-size:xx-large;
+    color: rgb(234, 133, 18);
+}
+.Water h6{
+    font-size:x-large;
+    font-weight: 500;
+    color: rgb(73, 113, 221);
+}
+.Water p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    line-height:2.5;
+}
+.Water img{
+    width: 700px;
+    height: 400px;
+}
+.Water button{
+    background-color: rgb(241, 241, 241);
+}
+button1{
+    background-color: rgb(14, 4, 23);
+    color: white;
+}

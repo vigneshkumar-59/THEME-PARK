@@ -1,0 +1,26 @@
+body{
+    background-color: lightgreen;
+    margin: 0;
+
+}
+
+.Reg{
+    width: auto;    
+    background-image: url("https://wallpapercave.com/wp/wp2777476.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100px;
+    color: rgb(0, 247, 255);
+    font-display:calc();
+    padding: 127px 0;
+}
+.Reg h1{
+    font-size: medium;
+    font-weight: 900;
+}
+nav{
+    padding: 5px 5px !important;
+}

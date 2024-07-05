@@ -1,0 +1,53 @@
+/* Header */
+.Mytop{
+    background-color: rgb(238, 164, 144);
+    text-align: center;
+    font-size: 50px;
+    font-weight: 100px;
+    color: rgb(255, 0, 0);
+    font-display:calc();
+}
+
+nav{
+    padding: 5px 5px !important;
+}
+
+.Mytop p{
+    color: rgb(4, 0, 0);
+    line-height: 2.5 ;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* TourMap section */
+.Our{
+    padding: 10px 0;
+    height: 787px;
+    background-image: url("https://i.ytimg.com/vi/Kq2jB9q9lro/maxresdefault.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.Our img{
+    width: 550px;
+    height: 300px;
+}
+
+.Our .p{
+    font-size: 208px;
+}
+.Our h5{
+    color: rgb(47, 255, 217);
+    font-size: 25px;
+}
+.Our button{
+    align-content: center;
+    background-color: rgb(231, 227, 116);
+    width: 110px;
+    height: 50px;
+    border-radius: 100px;
+}
+.Our button:hover{
+    background-color: rgb(101, 93, 247);
+}

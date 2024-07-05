@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+.kmp{
+    background-image: url("https://i.pinimg.com/originals/22/45/16/224516610e119afd2c80699ef2c3c378.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+    text-align: center;
+
+}
+.kmp p{
+    color: black;
+    font-size: 19px;
+    line-height: 2;
+    text-align: left;
+}
+.image1{
+    width: 100%;
+    height: 100%;
+
+}

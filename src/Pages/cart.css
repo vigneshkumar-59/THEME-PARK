@@ -1,0 +1,35 @@
+
+.cart{
+
+    background-image: url("https://getwallpapers.com/wallpaper/full/5/f/c/755464-top-bright-purple-wallpaper-2560x1600.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    padding: 0px 0;
+}
+.cart h5{
+    background-image: url("https://wallpaperaccess.com/full/2769681.jpg");
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+.cart h9{
+    color: black;
+    background-color: rgb(255, 255, 255);
+}
+.cart p{
+    font-size: large;
+    font-weight: 500;
+    text-align: center;
+    line-height: 2 ;
+}
+.cart button{
+    align-content: center;
+    background-color: rgb(189, 189, 23);
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+}
+.cart button:hover{
+    background-color: rgb(93, 247, 144);
+}
